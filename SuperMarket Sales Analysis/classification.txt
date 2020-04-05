@@ -1,0 +1,14 @@
+payment type classification
+branch wise classification
+customer type classification
+product wise classification
+gender wise classification
+gender and customer wise classification
+gender and product wise classification
+branch and income wise classification
+branch and product wise classification
+branch and payment classification
+customer and product wise classification
+customer and payment wise classification
+product and income wise classification
+branch wise revenue classification
