@@ -7,10 +7,8 @@ this is a one month random supermarket sales report. Those supermarket are get a
 
 All are analysis type are include in ***classification*** file. 
 
-I am use a jupyter notebook in this project, and i am use a below python libraries
- - pandas
- - numpy
- - matplotlib
+## Technology used in Project :hotsprings:
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="400">
 
 ## ScreenShot :camera_flash:
 
